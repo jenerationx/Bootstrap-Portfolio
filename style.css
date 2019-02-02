@@ -6,6 +6,7 @@ h1, h2 {
         font-weight: bold;
 }
 .main-section {
-        padding: 20px;
+        padding: 20px 30px;
+        overflow: auto;
     } 
 
