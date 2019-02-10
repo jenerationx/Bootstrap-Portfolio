@@ -7,5 +7,10 @@ h1, h2 {
 }
 .main-section {
         padding: 20px 30px;
+        background: #ffffff;
     } 
 
+.jumbotron {
+        background-image: url('..Assets/images/animals1.jpg') !important;
+        background-size: cover;
+}
